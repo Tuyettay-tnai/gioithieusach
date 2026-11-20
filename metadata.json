@@ -1,0 +1,8 @@
+{
+  "name": "Ngày Văn Hóa Việt Nam – Giới Thiệu Sách Của Thư Viện",
+  "description": "Trang thông tin chính thức chương trình Giới thiệu sách của Thư viện nhân Ngày Văn hóa Việt Nam: Lan tỏa tri thức – Gìn giữ bản sắc – Kết nối tương lai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
